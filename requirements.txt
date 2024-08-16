@@ -1,0 +1,6 @@
+
+pickle
+pandas
+scikit-learn
+Pillow
+streamlit
